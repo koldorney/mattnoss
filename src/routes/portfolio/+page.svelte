@@ -4,7 +4,7 @@
 	import PhotoGallery from '$lib/components/PhotoGallery.svelte';
 	import { portfolioProjects } from '$lib/data/imageData.js';
 
-	const heroImg = 'https://www.mattnossconstruction.com/wp-content/uploads/2-scaled.jpg';
+	const heroImg = '/images/2-scaled.jpg';
 </script>
 
 <svelte:head>

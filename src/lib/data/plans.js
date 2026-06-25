@@ -1,7 +1,7 @@
 // Full custom-home plan catalog. Gallery/elevation/floor-plan images are
 // referenced from the existing hosted URLs so they render identically; the
 // shared branding images live in /static/images. Localize later if desired.
-const U = 'https://www.mattnossconstruction.com/wp-content/uploads/';
+const U = '/images/';
 const u = (n) => U + n;
 
 export const plans = [

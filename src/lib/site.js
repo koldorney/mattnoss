@@ -160,7 +160,7 @@ export const brandValues = [
 ];
 
 // Portfolio project gallery — names from the live portfolio page.
-const PU = 'https://www.mattnossconstruction.com/wp-content/uploads/';
+const PU = '/images/';
 export const portfolioProjects = [
 	'Meet Me On The Mountain', 'Dobro 3 Modern Farmhouse', 'Post and Beam', 'Modern Home',
 	'Ashland Springs', 'Modern Farmhouse', 'Mountain Zen by Moss Creek', 'Farmhouse Dulcimer by Moss Creek',
